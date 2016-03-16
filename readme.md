@@ -43,3 +43,5 @@ Take pictures of the diagram for each practice problem, and turn them all in wit
 #### Deliverable
 
 Pictures of each of the practice problems. Nothing to submit for the interview section.
+
+['Practice Problems' picture](http://i.imgur.com/eVgZARA.jpg)
